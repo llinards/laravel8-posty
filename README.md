@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> Mini social network style page with option to register/login, create/view/remove posts, add/remove likes.
+> Mini social network style page with option to register/login, create/view/remove posts, add/remove likes. Integrated e-mail notification when user likes someones post.
 
 <h4>Stack</h4>
 
