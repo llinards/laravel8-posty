@@ -10,6 +10,6 @@
 > Laravel 8 <br />
 > TailwindCSS
 
-### 🌍 [Public Demo] - coming soon...
+### 🌍 [Public Demo (Heroku)] - https://pure-cove-84396.herokuapp.com/
 
 👤 **Linards**
