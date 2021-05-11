@@ -8,8 +8,8 @@
 <h4>Stack</h4>
 
 > Laravel 8 <br />
-> TailwindCSS
+> Tailwind CSS
 
-### 🌍 [Public Demo (Heroku)] - https://pure-cove-84396.herokuapp.com/
+### 🌍 Public Demo (Heroku) - https://pure-cove-84396.herokuapp.com/
 
 👤 **Linards**
